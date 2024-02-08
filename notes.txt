@@ -1,0 +1,53 @@
+Sure, here's an updated version of the system with improvements:
+
+### Ally Academy
+
+-- User Roles
+  - Admin
+  - Teacher/Tutor
+  - Support (Support User)
+  - Student (Normal User, Helper User)
+
+-- System Features
+  - Auth System (Login, Register, Two-Factor Authentication, Password Strength Requirements)
+  - Q&A System
+    - Like Stack Overflow
+    - Tagging, categorization, search, and voting features
+  - Resources System
+    - Like Google Drive but for all users
+    - eache student can upload and share their study materials
+  - Chatbot System
+    - Like ChatGPT but specific to each user by training on their data and fields of study
+    - Safeguards to prevent offensive or inappropriate content
+  - Help Me System
+    - Users with upgraded accounts can ask for help
+    - Users describe their problem and subject, and can request help now or schedule it
+    - Users wait for a helper student for a set duration
+    - Users can join a meeting system and solve their problem with a helper user
+    - The system pays the helper user after the session
+    - Rating and review system for quality control and user feedback
+    - Matching algorithm to pair users with suitable helpers based on expertise and availability
+ - Meeting System
+    - Users can create and join meetings
+    - Integration with popular video conferencing services
+    - Features like screen sharing, whiteboard, and file transfer
+
+- Wallet System
+    - Users can purchase additional storage
+    - Users can upgrade their chatbot
+    - Users can receive money by helping other users
+    - Secure payment gateways and financial transactions
+    - System to prevent fraud and abuse
+
+- Tools System
+    - Calendar
+    - GPA calculator
+    - Timer and stopwatch
+    - Habit tracker
+    - Regular updates and maintenance to ensure accuracy and relevance
+    - Addition of more educational and productivity tools based on user feedback and demand
+
+- User-friendly and responsive UI/UX design
+- Scalable system to handle high traffic and usage
+- Regular updates based on user feedback and changing needs
+- Robust security measures to protect user data and ensure privacy
