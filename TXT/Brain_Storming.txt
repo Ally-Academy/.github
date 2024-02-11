@@ -4,22 +4,29 @@ Sure, here's an updated version of the system with improvements:
 
 -- User Roles
   - Admin
-  - Teacher/Tutor
-  - Support (Support User)
+  - Support (Support User) -> that user can help students with their problems
   - Student (Normal User, Helper User)
+    - Normal Student -> Free User that can use the basic features
+    - Helper Student -> User has don the test in some subjects and can help other students and he can receive money for that
+  - Premium Student (Upgraded User)
+    - Can ask for More Help
+    - Can use the chatbot with more features
+    - Can use a meeting system with more features
 
--- System Features
-  - Auth System (Login, Register, Two-Factor Authentication, Password Strength Requirements)
-  - Q&A System
+[Auth, Q&A, Resources, Chatbot, Help Me, Meeting, Wallet, Tools]
+
+-- System Features (Ally Academy) 
+  - Auth (Login, Register, Two-Factor Authentication, Password Strength Requirements)
+  - Q&A
     - Like Stack Overflow
     - Tagging, categorization, search, and voting features
-  - Resources System
+  - Resources
     - Like Google Drive but for all users
     - eache student can upload and share their study materials
-  - Chatbot System
+  - Chatbot
     - Like ChatGPT but specific to each user by training on their data and fields of study
     - Safeguards to prevent offensive or inappropriate content
-  - Help Me System
+  - Help Me
     - Users with upgraded accounts can ask for help
     - Users describe their problem and subject, and can request help now or schedule it
     - Users wait for a helper student for a set duration
@@ -27,7 +34,7 @@ Sure, here's an updated version of the system with improvements:
     - The system pays the helper user after the session
     - Rating and review system for quality control and user feedback
     - Matching algorithm to pair users with suitable helpers based on expertise and availability
- - Meeting System
+  - Meeting System
     - Users can create and join meetings
     - Integration with popular video conferencing services
     - Features like screen sharing, whiteboard, and file transfer
